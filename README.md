@@ -1,2 +1,3 @@
-# Alarm-Clock-with-GUI
-As we all know, nowadays wake up on time is a very difficult task. The solution is the Alarm Clock. In this article, we will learn, How to create an Alarm Clock using Tkinter in Python. Without alarms, several people would oversleep and land up late for work. Alarm clocks may also be useful for keeping sleep schedules regular.
+A Python-based alarm clock with a graphical user interface (GUI) is a software application that provides users with an intuitive and customizable way to set and manage alarms. The alarm clock's main features include a GUI window, a current time display, alarm setting controls, an alarm list, alarm activation and deactivation, alarm triggering, snooze and stop functions, user preferences, persistence, and error handling.
+
+The GUI window serves as the interface for the alarm clock application, allowing users to interact with its features. It provides a visually appealing display and typically utilizes a GUI framework such as Tkinter or PyQT.
